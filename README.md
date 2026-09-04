@@ -5,7 +5,7 @@ This project is inspired by the direct reading program based on the paper author
  
 this paper talks about:
 
-    -catalan numbers
+    - catalan numbers
     - the combinatorics of hopping particles 
     - positivity in markov chains 
 
@@ -23,4 +23,7 @@ this paper talks about:
 # status- 
 
     planning stage
+vjuv= fufuyvu
+(fufuy
+cyyc.
 
