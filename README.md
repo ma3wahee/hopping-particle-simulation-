@@ -1,11 +1,12 @@
 # hopping-particle-simulation-
 
-    # background-
+# background-
 This project is inspired by the direct reading program based on the paper authored by Lauren K. Williams (2022) 
  
 this paper talks about:
-    - catalan numbers
-the combinatorics of hopping particles 
+
+    -catalan numbers
+    - the combinatorics of hopping particles 
     - positivity in markov chains 
 
 
