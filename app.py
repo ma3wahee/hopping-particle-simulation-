@@ -7,7 +7,7 @@ def particle_movement():
     left = zero - 1
     #possible moves: left, right, or stay at current position.
     moves = [zero, left, right]
-    #simply to moves = [-1,0,1] in phases 2-4 indicate this by *
+    #simplfy to moves = [-1,0,1] in phases 2-4 indicate this by *
     #randomly choose a move from the given moves.
     random_move = random.choice(moves)
     return(random_move)
