@@ -43,9 +43,8 @@ example output:
     - basic debugging
     
 # status- 
-
-   - random walk simulation completed
-   - visualization currently being debugged
-   - multi- particle implementation planned 
-
+    - random walk simulation completed
+    - visualization currently being debugged
+    - multi- particle implementation planned 
+ 
 
