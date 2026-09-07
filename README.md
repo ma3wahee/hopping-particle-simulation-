@@ -21,14 +21,13 @@ this paper talks about:
     - explore multi- particle systems 
 # current implementation-
 this current program implements a one-dimensional random walk simulation.
-
 features include:
+
     - random particle movement 
     - position tracking
     - state updates 
     - trajectory storage
     - position-history recording 
-
 the complete trajectory is stored and returned by the simulation. 
 
 example output:
@@ -44,6 +43,7 @@ example output:
     - basic debugging
     
 # status- 
+
    - random walk simulation completed
    - visualization currently being debugged
    - multi- particle implementation planned 
